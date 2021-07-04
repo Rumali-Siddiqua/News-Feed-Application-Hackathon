@@ -9,6 +9,7 @@ A client-server model web app. Created a website that displays trending news in 
 - CORS and Newsapi
 ## Functionalities
 - Created a login page for the user to create a new post
+- Using Express and EJS, created a news feed web application from an API.
 ## Installation
 This project needs to install node packages and postgres database.
 Install postgres database in your system before starting the project installation.
